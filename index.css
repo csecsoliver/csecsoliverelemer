@@ -46,7 +46,7 @@ a:hover {
     font-size: 25px;
     padding: 2px;
     margin: 0 30px;
-    transition: 0.2s;
+    transition: 0s;
     background-color: lightgray;
 }
 /* red fade when hover over .button */
