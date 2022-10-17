@@ -33,6 +33,12 @@ h2 {
     margin: 0 auto;
     width: 95%;
 }
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
 .button {
     color: black;
     border: 1px solid black;
@@ -40,7 +46,19 @@ h2 {
     font-size: 25px;
     padding: 2px;
     margin: 0 30px;
+    transition: 0.2s;
+    background-color: lightgray;
 }
+/* red fade when hover over .button */
+.button:hover {
+    background-color: red;
+    color: white;
+    transition: 0.3s;
+}
+/* .button:hover {
+    background-color: red;
+    color: white;
+} */
 #navbar{
     background-color: lightgray;
     border: 1px solid black;
@@ -53,5 +71,5 @@ body{
     background-color:gray;
 }
 img {
-    width: 100%;
+    width: 25%;
 }
