@@ -7,7 +7,7 @@ p,ol {
     margin: 0 auto;
     padding: 20px 10px;
     width: 95%;
-    text-align: justify;
+    /* text-align: justify; */
 }
 ol {
     padding: 20px 50px;
