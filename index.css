@@ -66,6 +66,7 @@ a:hover {
 body{
     background-color:black;
     font-family: 'Nova Mono', monospace;
+    font-size: medium;
 }
 img {
     width: 25%;
