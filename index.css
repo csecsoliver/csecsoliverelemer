@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
-p,ol {
+p {
     width: 90%;
     background-color: black;
     color: lightgray;
@@ -20,6 +20,12 @@ table{
 }
 ol {
     padding: 20px 50px;
+    width: 90%;
+    background-color: black;
+    color: lightgray;
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 90%;
 } 
 
 
