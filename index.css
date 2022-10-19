@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
-p,ol {
+p,ol, table {
     width: 90%;
     background-color: black;
     color: lightgray;
