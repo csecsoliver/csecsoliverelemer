@@ -86,3 +86,7 @@ body{
 img {
     width: 25%;
 }
+#title{
+    /* all content in one line */
+    display: inline-block;
+}
