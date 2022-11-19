@@ -83,11 +83,19 @@ body{
     font-family: 'Nova Mono', monospace;
     font-size: 20px;
 }
-img {
+#logo {
     width: 36px;
 
 }
 #title{
     
     display: inline-block; 
+}
+.left{
+    float: left;
+    width: 50%;
+}
+.right{
+    float: right;
+    width: 50%;
 }
