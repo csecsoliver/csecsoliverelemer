@@ -2,7 +2,7 @@
 
 p {
     width: 90%;
-    background-color: black;
+    background-color: #1a1c19;
     color: lightgray;
     border: 1px solid black;
     margin: 0 auto;
@@ -16,7 +16,7 @@ th {
 }
 table {
     width: 90%;
-    background-color: black;
+    background-color: #1a1c19;
     color: lightgray;
     border: 1px solid black;
     margin: 0 auto;
@@ -33,7 +33,7 @@ tr {
 ol {
     padding: 20px 50px;
     width: 90%;
-    background-color: black;
+    background-color: #1a1c19;
     color: lightgray;
     border: 1px solid black;
     margin: 0 auto;
@@ -46,7 +46,7 @@ ol {
 }
 
 #cim {
-    background-color: black;
+    background-color: #1a1c19;
     color: red;
     border: 1px solid black;
     padding: 10px;
@@ -56,7 +56,7 @@ ol {
 }
 
 h2 {
-    background-color: black;
+    background-color: #1a1c19;
     color: orangered;
     border: 1px solid black;
     padding: 10px;
@@ -79,7 +79,7 @@ a:hover {
     font-size: 25px;
     padding: 2px;
     margin: 0 30px 0 0;
-    background-color: rgb(0, 0, 0);
+    background-color: #1a1c19;
     display: inline-block;
     position: relative;
     transition: 0.2s;
@@ -92,7 +92,7 @@ a:hover {
 }
 
 #navbar {
-    background-color: black;
+    background-color: #1a1c19;
     padding: 10px 10px;
     margin: 0 auto;
     text-align: center;
@@ -100,7 +100,7 @@ a:hover {
 }
 
 body {
-    background-color: black;
+    background-color: #1a1c19;
     font-family: 'Nova Mono', monospace;
     font-size: 20px;
 }
@@ -108,10 +108,11 @@ body {
 #logo {
     width: 36px;
 	margin-right: 3px;
+	transition-duration: 0.2s;
 }
 #logo:hover{
 	transform: rotate(-360deg);
-	transition-duration: 0.2s;
+	transition-duration: 0.5s;
 }
 
 #title {
